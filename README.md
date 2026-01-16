@@ -1,6 +1,7 @@
 Task 2: Data Cleaning and Missing Value Handling
 
 Project Overview
+
 In this task, I focused on the essential first step of any machine learning pipeline: Data Preprocessing. I worked with two different datasets—the "House Prices Dataset" and the "Medical Appointment No Shows"—to identify, visualize, and resolve missing data issues.
 
 The goal was to transform "messy" raw data into a high-quality format suitable for analysis while ensuring that no critical information was lost.
